@@ -1,27 +1,7 @@
-# Welcome to a Markdown website!
 
-This is an example!
-This is normal text, by the way.
+# This is our hide!
 
-## This is a smaller header.
-### Even smaller?
-#### MAX AMOUNT OF SMALL!
-
-Here's a hyperlink:
-[Link that goes to something](https://boocifer1.github.io/)
-
-Another one?:
-[Link that goes to another page on the site!](https://st5sneaky.github.io/example-website-v2/anotherpage)
-
-This is an image!
-
-![image alt text](https://raw.githubusercontent.com/boocifer1/boocifer1.github.io/main/hewwo.jpg)
-
-## What are indexes?
-
-Index files in websites are the main page!!
-
-## And now, Lorem Ipsum
+HI hiashdiashdoashasda fskdjfkdsbkjf
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
 ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper feugiat. Sit amet tellus 
