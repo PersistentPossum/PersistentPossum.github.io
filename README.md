@@ -1,3 +1,15 @@
+# So the last one didn't work?
+
+Yeah it didn't.
+
+But this one works from the ground up!
+
+Fork and click Settings, then click Pages, and make sure your Branch section matches with the image!
+
+![GitHub Branch Matcher](https://github-production-user-asset-6210df.s3.amazonaws.com/105569073/273070926-3c621185-6301-4b18-afa1-c31535601013.png)
+
+And then it'll work!
+
 # example-website version 2!
 
 This is made for absolute beginners who just started using GitHub and want to make a website using it.
