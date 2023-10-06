@@ -56,7 +56,7 @@ That's all the knowledge you need to know of Markdown to make sites.
 
 Of course, you can go more and learn more about Markdown, but all you need to know is that.
 
-# Fork, fork, fork!
+# What the fork?
 
 Thanks for using this small guide!
 
